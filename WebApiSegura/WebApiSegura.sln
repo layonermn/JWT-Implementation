@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSegura", "WebApiSegura\WebApiSegura.csproj", "{3F836AB0-B554-4256-B62F-2F3F1867008F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSegura.Principal", "WebApiSegura.Principal\WebApiSegura.Principal.csproj", "{489A7C09-2533-474E-A5CA-FBA1F9EB6EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F836AB0-B554-4256-B62F-2F3F1867008F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F836AB0-B554-4256-B62F-2F3F1867008F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F836AB0-B554-4256-B62F-2F3F1867008F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F836AB0-B554-4256-B62F-2F3F1867008F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{489A7C09-2533-474E-A5CA-FBA1F9EB6EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489A7C09-2533-474E-A5CA-FBA1F9EB6EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489A7C09-2533-474E-A5CA-FBA1F9EB6EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489A7C09-2533-474E-A5CA-FBA1F9EB6EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
